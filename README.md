@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on ...  
   
 
-- 🌱 I’m currently learning Machine Learning, Computer Networks, Operating Systems and Natural Computing.  
+- 🌱 I’m currently learning Machine Learning, Computer Networks, Operating Systems, Natural Computing and some French 🇫🇷.  
   
 
 - ⚡ Fun fact: In TTRPGs I usually play as the guy who always has ways to deal with problems.  
