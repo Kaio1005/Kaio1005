@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Machine Learning, Computer Networks, Operating Systems, Natural Computing and some French 🇫🇷.  
   
 
-- ⚡ Fun fact: In TTRPGs I usually play as the guy who always has ways to deal with problems.  
+- ⚡ Fun fact: In TTRPGs I usually play as the scoundrel of the party.  
   
 
 <br/>  
