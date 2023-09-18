@@ -5,7 +5,9 @@
 ### <div align="center">I'm Kaio, a computer science student from Brazil 🇧🇷, carving my way up to a successful data career🚀</div>  
   
 
-- 🔭 I’m currently working on an NBA 22/23 data EDA, https://github.com/Kaio1005/NBA_2023_EDA
+- 🔭 I’m currently working on an NBA 22/23 data EDA and another college projects, you can see then in the links below:
+       -https://github.com/Kaio1005/NBA_2023_EDA
+      
   
 
 - 🌱 I’m currently learning Data Mining, Paralel and Distributed Systems, Artificial Inteligence, Recommendation Systems, a little bit of Software Engineering technics and reviewing some Statistics.  
