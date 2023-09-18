@@ -5,11 +5,12 @@
 ### <div align="center">I'm Kaio, a computer science student from Brazil 🇧🇷, carving my way up to a successful data career🚀</div>  
   
 
-- 🔭 I’m currently working on ...  
+- 🔭 I’m currently working on an NBA 22/23 data EDA, https://github.com/Kaio1005/NBA_2023_EDA
   
 
-- 🌱 I’m currently learning Machine Learning, Computer Networks, Operating Systems, Natural Computing and some French 🇫🇷.  
-  
+- 🌱 I’m currently learning Data Mining, Paralel and Distributed Systems, Artificial Inteligence, Recommendation Systems, a little bit of Software Engineering technics and reviewing some Statistics.  
+
+- 📖 Planning to review Linear Algebra and Calculus soon.
 
 - ⚡ Fun fact: In TTRPGs I usually play as the scoundrel of the party.  
   
