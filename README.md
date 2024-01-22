@@ -10,9 +10,7 @@
       
   
 
-- 🌱 I’m currently learning Data Mining, Paralel and Distributed Systems, Artificial Inteligence, Recommendation Systems, a little bit of Software Engineering technics and reviewing some Statistics.  
-
-- 📖 Planning to review Linear Algebra and Calculus soon.
+- 🌱 I’m currently learning ...  
 
 - ⚡ Fun fact: In TTRPGs I usually play as the scoundrel of the party.  
   
