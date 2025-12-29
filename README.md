@@ -5,8 +5,7 @@
 ### <div align="center">I'm Kaio, a computer science student from Brazil 🇧🇷, carving my way up to a successful data career🚀</div>  
   
 
-- 🔭 I’m currently working on a data project about a telecom business and its clients churn
-      
+- 🔭
   
 
 - 🌱 I’m currently learning Excel, SQL, PowerBI and GCP
